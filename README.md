@@ -5,7 +5,7 @@
 ## 📁 프로젝트 구조
 
 ### mz-agent-dashboard/
-AWS 기반 지능형 문서 생성 에이전트 UI 구현체
+AWS 기반 지능형 문서 생성 에이전트 UI 구현
 
 #### 주요 특징
 - **AgentCore Document Agent**: APN PoC 프로젝트 문서 자동 생성
@@ -24,6 +24,8 @@ npm start
 
 #### 스크린샷
 ![AgentCore Interface](./mz-agent-dashboard/screenshots/main-interface.png)
+<img width="956" height="506" alt="image" src="https://github.com/user-attachments/assets/1555585b-ef28-4149-91a0-253fe3794917" />
+
 
 *좌측: Slack 스타일 채팅 인터페이스 | 우측: 실시간 문서 워크스페이스*
 
